@@ -1,0 +1,25 @@
+{
+  "name": "wpapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-builder"
+  },
+  "author": "Kei Rodriguez Hachimaru",
+  "license": "ISC",
+  "dependencies": {
+    "electron-store": "^8.1.0"
+  },
+  "devDependencies": {
+    "electron": "^26.2.1"
+  },
+  "build": {
+    "appId": "com.example.wpapp",
+    "productName": "WPapp",
+    "mac": {
+      "icon": "./src/assets/icon.icns"
+    }
+  }
+}
