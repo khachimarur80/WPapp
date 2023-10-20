@@ -4,7 +4,7 @@ WPapp is a straightforward animated wallpaper application built using Electron.j
 
 ## Default background
 
-![Default](assets/Default.gif)
+![Default](assets/Default.png)
 
 ## Example animated background
 
