@@ -2,6 +2,14 @@
 
 WPapp is a straightforward animated wallpaper application built using Electron.js. This application allows you to set animated wallpapers on your desktop effortlessly. Follow the steps below to get started.
 
+## Default background
+
+![Default](assets/Default.gif)
+
+## Example animated background
+
+![Wallpaper](assets/Wallpaper.gif)
+
 ## Usage
 
 To use WPapp, follow these steps:
