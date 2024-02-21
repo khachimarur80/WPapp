@@ -21,6 +21,9 @@
     "productName": "WPapp",
     "mac": {
       "icon": "./src/assets/icon.icns"
+    },
+    "linux": {
+      "icon": "./src/assets/icon.png"
     }
   }
 }
